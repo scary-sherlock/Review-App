@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scary-sherlock/Review-App.git/static/css/main.df595feb.css",
+    "main.js": "/scary-sherlock/Review-App.git/static/js/main.43881282.js",
+    "index.html": "/scary-sherlock/Review-App.git/index.html",
+    "main.df595feb.css.map": "/scary-sherlock/Review-App.git/static/css/main.df595feb.css.map",
+    "main.43881282.js.map": "/scary-sherlock/Review-App.git/static/js/main.43881282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df595feb.css",
+    "static/js/main.43881282.js"
+  ]
+}
